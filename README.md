@@ -13,3 +13,7 @@ everything on https://github.com/Averiias/Universal-SilentAim
 
 # DISCLAMER
 this is a project just for testing and learning, i made this script since i was bored and i wanted a legit script for counter blox, however if you want a real legit like professional i recommend using a aimbot whit smoothness, im right now working on it, THIS IS A ALPHA, IF THERE IS A ERROR PLEASE TELL ME, THERE ARE A LOT OF THINGS TO ADD AND I KNOW IT WELL AND I WILL ADD IT ON THE FUTURE.
+
+# execution script:
+copy on your executor this script
+``` loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zylang104/simple-counter-blox-esp-and-silent-aim/refs/heads/main/main.lua'))() ```
